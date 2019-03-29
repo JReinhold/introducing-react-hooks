@@ -17,7 +17,7 @@ To see the `useEffect` example, switch out the `App` import in `example-app/inde
 
 ## Slides
 
-Available at [reinhold.is/introducing-hooks-at-auhack](https://reinhold.is/introducing-hooks-at-auhack).
+Available at [auhack-19-hooks.netlify.com](https://auhack-19-hooks.netlify.com).
 
 You can also start them up locally via
 
