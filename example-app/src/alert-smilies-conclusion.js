@@ -9,7 +9,8 @@ export function AlertSmilies({ message }) {
 
   return (
     <div className="alert-smilies">
-      AlertSmilies - {smilies}
+      AlertSmilies - {smilies}<br/>
+      Message: {message}
       <button onClick={() => setSmilies(smilies + '😎')}>
         Add smiley and alert
       </button>
